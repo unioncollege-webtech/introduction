@@ -17,9 +17,9 @@ readFile('./introduction.js', "utf-8", function(err, value) {
     assert.equal(typeof name, "string", "The variable `name` should be a string, but it was " + typeof name);
     assert.equal(typeof message, "string", "The variable `message` should be a string, but it was " + typeof message);
 
-    var messageRegExp = /Hello\! My name is (.*). I'm (.*) years old, and I am a (.*) (.*) at Union College\./;
-    assert.ok(messageRegExp.test(message), "The message doesn't match the correct format. It should look like: \n\n\
-    Hello! My name is <NAME>. I'm <AGE> years old, and I am a <CLASS_YEAR> <MAJOR> at Union College.\n");
+    var messageRegExp = /Hello\! My name is (.*). I'm (.*) years old, and I am a (.*) (.*) major at Union College\./;
+    assert.ok(messageRegExp.test(message), "The message doesn't match the correct format. It should look something like: \n\n\
+    Hello! My name is Benjamin Barber. I'm 33 years old, and I am a Senior Computer Information Systems major at Union College.\n");
 
 
     console.log("All tests pass!")
