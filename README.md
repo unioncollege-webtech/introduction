@@ -16,7 +16,7 @@ following:
 4. Create a new variable `classYears`, and set its value equal to an [Array] containing the following four (4) values: "Freshman", "Sophomore", "Junior", "Senior".
 5. Create a new variable  `message`, and set its value equal to a String that is in this form:
 
-   `Hello! My name is <NAME>. I'm <AGE> years old, and I am a <CLASS_YEAR> <MAJOR> at Union College.`
+   `Hello! My name is <NAME>. I'm <AGE> years old, and I am a <CLASS_YEAR> <MAJOR> major at Union College.`
    
    _Note that <CLASS_YEAR> should refer to the correct array item representing your class year._
 
