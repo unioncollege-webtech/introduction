@@ -51,7 +51,7 @@ References
 ----------
 - [Declaring variables]
 - [String Literals][String]
-- [Numbers]
+- [Number]
 - [console.log]
 - [Array]
 
