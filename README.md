@@ -1,4 +1,4 @@
-*Introduction* Exercise
+"Introduction" Exercise
 =======================
 
 In this exercise, we will use variables, strings, arrays, and console.log to log
@@ -40,12 +40,15 @@ node test
 Completing and submitting the assignment
 ----------------------------------------
 
-- To start, [**fork** the repository](https://guides.github.com/activities/forking/).
-- [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
+- To begin, [**fork** this repository](https://guides.github.com/activities/forking/).
+- [Create a new Cloud9 workspace](https://docs.c9.io/docs/setting-up-github-workspace) from your new repository.
+  - Alternatively, you may [**clone**](http://gitref.org/creating/#clone) your new repository to your computer.
 - Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
 - Run `node test` to verify that all tests pass.
 - [Push](http://gitref.org/remotes/#push)/sync the changes up to GitHub.
 - [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository to turn in the assignment.
+
+You are also welcome commit, push, and create a pull request **before** you’ve completed your solution. You can ask questions or request feedback there in your pull request. Just mention `@barberboy` in your comments to get my attention.
 
 References
 ----------
