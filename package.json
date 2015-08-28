@@ -1,0 +1,25 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "description": "An introductory exercise using variables, strings, arrays, and console.log.",
+  "main": "introduction.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unioncollege-webtech/introduction.git"
+  },
+  "keywords": [
+    "exercise"
+  ],
+  "author": "Benjamin Barber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unioncollege-webtech/introduction/issues"
+  },
+  "homepage": "https://github.com/unioncollege-webtech/introduction"
+}
