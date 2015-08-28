@@ -7,11 +7,11 @@ log an introduction message.
 Description
 -----------
 
-Update [introduction.js](./introduction.js), adding code which does the
+Update [introduction.js](./introduction.js#L1), adding code which does the
 following:
 
 1. Create a new variable `name`, and set its value equal to a [String] containing your first and last name (e.g. Benjamin Barber).
-2  Create a new variable `age`, and set its value equal to a [Number][Integers] representing your age in years (e.g. 33).
+2. Create a new variable `age`, and set its value equal to a [Number][Number] representing your age in years (e.g. 33).
 3. Create a new variable `major`, and set its value equal to a String representing your major(s) (e.g. Computing).
 4. Create a new variable `classYears`, and set its value equal to an [Array] containing the following four (4) values: "Freshman", "Sophomore", "Junior", "Senior".
 5. Create a new variable  `message`, and set its value equal to a String that is in this form:
@@ -38,7 +38,8 @@ node test
 ```
 
 Completing and submitting the assignment
--------------------------
+----------------------------------------
+
 - To start, [**fork** the repository](https://guides.github.com/activities/forking/).
 - [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
 - Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to complete your solution.
@@ -57,5 +58,5 @@ References
 [Declaring variables]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Declaring_variables
 [String]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#String_literals
 [Number]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Integers
-[Console.log]: https://developer.mozilla.org/en-US/docs/Web/API/Console/log
+[Console.log]: https://developer.mozilla.org/en-US/docs/Web/API/Console/log#Syntax
 [Array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Array_literals
