@@ -1,6 +1,8 @@
 "Introduction" Exercise
 =======================
 
+[![Join the chat at https://gitter.im/unioncollege-webtech/introduction](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech/introduction?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In this exercise, we will use variables, strings, arrays, and console.log to log
 an introduction message.
 
