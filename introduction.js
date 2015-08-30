@@ -1,5 +1,5 @@
 var name = "Benjamin Barber";
-var age = "33";
+var age = 33;
 var major = "Computer Information Systems";
 var classYears = [
     "Freshman",
