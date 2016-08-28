@@ -1,6 +1,6 @@
 // Your code goes here.
 var name = "Mark Eldridge";
-var age1 = "27";
+var age1 = 27;
 var major = "Business Administration";
 var classStanding = ['Freshman', 'Sophomore', 'Junior', 'Senior', 'Alumnus'];
 
